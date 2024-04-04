@@ -25,4 +25,5 @@ https://www.kaggle.com/competitions/predict-student-performance-from-game-play
 - 5 fold Stratified KFold로 학습
 - 분류 결정경계 0.614 사용
 - 모델 평가 : Macro F1-Score
-- 모델 점수 : CV 0.705 / LB public 0.699, LB private 0.701 
+- 모델 점수 : CV 0.705 / LB public 0.699, LB private 0.701
+- Solo Silver Medal 획득
