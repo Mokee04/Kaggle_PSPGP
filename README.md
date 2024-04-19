@@ -4,6 +4,8 @@ Kaggle 대회 'Predict Student Performance from Game Play'에 참여해 사용�
 --대회 홈페이지--<br>
 https://www.kaggle.com/competitions/predict-student-performance-from-game-play
 
+--활용 도구--<br>
+  - Python
 ### 1. 파일 소개
 
 (1) __(AF)FeatureEngineering_v0.1.ipynb__ : FeatureEngineering 진행한 스크립트
